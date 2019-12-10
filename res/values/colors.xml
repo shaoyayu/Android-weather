@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="tv_chengshi">#56ffffff</color>
+    <color name="LIGHT_BLUE">#56ffffff</color>
+    <color name="baishe">#ffffff</color>
+    <color name="hongshe">#ff0008</color>
+</resources>

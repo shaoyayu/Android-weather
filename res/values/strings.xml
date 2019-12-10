@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Maguansheng04</string>
+    <string name="tianqichaxun">欢迎使用全国天气查询系统</string>
+    <string name="bt_chaxun">查询</string>
+    <string name="tv_shengbu">贵州/铜仁市</string>
+    <string name="tv_chengshi">松桃县</string>
+    <string name="tv_rqi">2018年11月</string>
+    <string name="tv_tain">星期日</string>
+    <string name="tv_wendu">温度:</string>
+    <string name="tv_tianqi">晴天</string>
+    <string name="tv_wenduMaxMin">15℃～26℃</string>
+    <string name="wenxts">温馨提示:</string>
+</resources>
